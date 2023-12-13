@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anonymous5629
-- 👀 I’m interested in ...Hacking And Programmingh
-- 🌱 I’m currently learning ... Python Code
+- 👀 I’m interested in ...Hacking And Programming
+- 🌱 I’m currently learning ... Python Code/ Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
